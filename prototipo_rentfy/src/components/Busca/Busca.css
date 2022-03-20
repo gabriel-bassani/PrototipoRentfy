@@ -1,0 +1,29 @@
+.buttonBusca {
+    background-color: rgb(253, 212, 76);
+    border: none;
+    border-style: solid;
+    border-width: 1px;
+    border-color: gray;
+    color: black;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-flex;
+    align-items: center;
+    margin: 4px 2px;
+    border-radius: 16px;
+  }
+
+  
+  .button:hover {
+    background-color: #f1f1f1;
+  }
+  .searchCircle {
+    /*height: 25px;
+    width: 25px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;*/
+    margin-right: -15px;
+    margin-left: 15px;
+  }
